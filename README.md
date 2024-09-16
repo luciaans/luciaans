@@ -10,4 +10,6 @@ class Kiki:
             "system": "Windows"
         }
 ```
- [![Discord Presence](https://lanyard.cnrad.dev/api/867236993683816458)](https://discord.com/users/867236993683816458) 
+ <p align="center">
+  <a href"https://discord.com/users/867236993683816458"><img src="https://lanyard.cnrad.dev/api/867236993683816458"/></a>
+</p>
