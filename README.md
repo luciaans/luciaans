@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**luciaans/luciaans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Kiki:
+    def __init__(self):
+        self.details = {
+            "age": 22,
+            "boy": true,
+            "locale": "Indonesia",
+            "languages": ["Javascript", "java", "PHP", "Python"],
+            "tools": ["NetBeans", "Visual Studio Code", "Intellij Idea", "Android Studio", "Processing 4"],
+            "system": "Windows"
+        }
