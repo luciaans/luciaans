@@ -5,7 +5,7 @@ class Kiki:
             "age": 22,
             "boy": true,
             "locale": "Indonesia",
-            "languages": ["Javascript", "java", "PHP", "Python"],
+            "languages": ["Javascript", "Java", "PHP", "Python"],
             "tools": ["NetBeans", "Visual Studio Code", "Intellij Idea", "Android Studio", "Processing 4"],
             "system": "Windows"
         }
