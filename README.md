@@ -18,7 +18,7 @@ Discord Activity
 
 ###
 <h1 align="center">
-Github Stats
+GitHub Stats
 </h1>
 
 ###
