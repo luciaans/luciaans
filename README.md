@@ -1,3 +1,9 @@
+###
+
+<h1>Discord Activity</h1>
+
+###
+
 <p align="center">
   <a href"https://discord.com/users/867236993683816458"><img src="https://lanyard.cnrad.dev/api/867236993683816458"/></a>
 </p>
@@ -11,7 +17,7 @@
 
 ###
 
-<h1>Github Stats 🐱‍👤</h1>
+<h1>Github Stats</h1>
 
 ###
 
