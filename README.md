@@ -14,27 +14,26 @@ class Kiki:
   <a href"https://discord.com/users/867236993683816458"><img src="https://lanyard.cnrad.dev/api/867236993683816458"/></a>
 </p>
 
-import matplotlib.pyplot as plt
-import numpy as np
-
-def draw_pacman():
-    fig, ax = plt.subplots()
-    ax.set_aspect('equal')
-    
-    # Create a circle with an arc removed
-    circle = plt.Circle((0, 0), 1, color='yellow', zorder=1)
-    wedge = plt.patches.Wedge((0, 0), 1, 45, 315, color='black', zorder=2)
-    
-    ax.add_patch(circle)
-    ax.add_patch(wedge)
-    
-    # Set the limits and hide the axes
-    ax.set_xlim(-1.2, 1.2)
-    ax.set_ylim(-1.2, 1.2)
-    ax.axis('off')
-    
-    plt.savefig('pacman.png', dpi=300, bbox_inches='tight')
-    plt.show()
-
-draw_pacman()
-![Pac-Man](https://github.com/username/username/raw/main/pacman.png)
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pac-Man</title>
+    <style>
+        .pacman {
+            width: 100px;
+            height: 100px;
+            background: yellow;
+            border-radius: 50%;
+            position: relative;
+            clip-path: polygon(50% 50%, 100% 0, 100% 100%);
+        }
+    </style>
+</head>
+<body>
+    <div class="pacman"></div>
+</body>
+</html>
+```
