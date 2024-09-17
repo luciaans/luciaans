@@ -1,10 +1,10 @@
 ###
 
-<h1 text="center">Discord Activity</h1>
+<h1 text-align="center">Discord Activity</h1>
 
 ###
 
-<p align="center">
+<p text-align="center">
   <a href"https://discord.com/users/867236993683816458"><img src="https://lanyard.cnrad.dev/api/867236993683816458"/></a>
 </p>
 
