@@ -1,6 +1,6 @@
 ###
 
-<h1>Discord Activity</h1>
+<h1 text="center">Discord Activity</h1>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h1>Github Stats</h1>
+<h1 text="center">Github Stats</h1>
 
 ###
 
