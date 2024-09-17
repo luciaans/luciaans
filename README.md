@@ -1,6 +1,7 @@
 ###
-
-<h1 text-align="center">Discord Activity</h1>
+<p align="center">
+Discord Activity
+</p>
 
 ###
 
