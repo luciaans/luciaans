@@ -10,9 +10,6 @@ Discord Activity
 </p>
 
 
-<img src="https://raw.githubusercontent.com/luciaans/luciaans/output/snake.svg" alt="Snake animation" />
-
-
 ###
 <h1 align="center">
 GitHub Stats
