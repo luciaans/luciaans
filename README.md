@@ -23,7 +23,6 @@ GitHub Stats
 </div>
 
 
-
 <h1 align="center">I Code With</h1>
 
 ###
@@ -41,6 +40,7 @@ GitHub Stats
 </div>
 
 ###
+
 
 <h1 align="center">My Spotify Music</h1>
 
