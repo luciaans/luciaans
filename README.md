@@ -22,8 +22,8 @@ GitHub Stats
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luciaans&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
-###
-<h2 align="center">I Code With</h2>
+
+<h1 align="center">I Code With</h1>
 
 ###
 
