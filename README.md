@@ -41,6 +41,16 @@ GitHub Stats
 
 ###
 
+###
+<h1 align="center">
+Discord Activity
+</h1>
+
+###
+
+<p align="center">
+  <a href"https://spotify-recently-played-readme.vercel.app"></a>
+</p>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xnixnvs4aipgfaei7sfel56vp4&unique={true|1|on|yes})
 
 
