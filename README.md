@@ -41,9 +41,12 @@ GitHub Stats
 
 ###
 
+<h1 align="center">My Spotify Music</h1>
+
+###
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnixnvs4aipgfaei7sfel56vp4&unique=true" />
 </p>
 
-
+###
 
