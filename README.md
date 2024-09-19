@@ -44,6 +44,8 @@ GitHub Stats
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xnixnvs4aipgfaei7sfel56vp4&unique={true|1|on|yes})
+
 
 
 
