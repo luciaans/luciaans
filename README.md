@@ -40,7 +40,9 @@
 </p>
 
 ###
-<img src="https://raw.githubusercontent.com/luciaans/luciaans/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/snake.svg" alt="Snake animation" />
 
 ###
 
