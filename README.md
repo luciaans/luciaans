@@ -40,13 +40,6 @@
 </p>
 
 ###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
 <h1 align="center">I Code With </h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -61,5 +54,13 @@
 </div>
 
 ###
+
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
