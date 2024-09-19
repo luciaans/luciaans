@@ -9,7 +9,7 @@ Discord Activity
   <a href"https://discord.com/users/867236993683816458"><img src="https://lanyard.cnrad.dev/api/867236993683816458"/></a>
 </p>
 
-###
+
 <img src="https://raw.githubusercontent.com/luciaans/luciaans/output/snake.svg" alt="Snake animation" />
 
 ###
