@@ -4,6 +4,7 @@
 <p align="center">
   <a href"https://discord.com/users/867236993683816458"><img src="https://lanyard.cnrad.dev/api/867236993683816458"/></a>
 </p>
+
 ###
 
 ###
@@ -19,6 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
 ###
 
 ###
@@ -28,6 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=luciaans&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luciaans&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"/>
 </div>
+
 ###
 
 ###
@@ -35,6 +38,7 @@
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnixnvs4aipgfaei7sfel56vp4&unique=true" />
 </p>
+
 ###
 
 
