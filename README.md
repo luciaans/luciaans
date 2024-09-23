@@ -13,6 +13,9 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=luciaans&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="luciaans's Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=luciaans&theme=tokyonight&hide_border=true" alt="luciaans's Streak" />
+</div>
+
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciaans&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="luciaans's Top Languages" />
 </div>
 
