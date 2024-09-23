@@ -11,8 +11,8 @@
 <h1 align="center"> GitHub Stats </h1>
 
 <div align="center" style="display: flex; gap: 10px">
-    <img src="https://github-readme-stats.vercel.app/api?username=luciaans&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luciaans&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=luciaans&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="luciaans's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciaans&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="luciaans's Top Languages" />
 </div>
 
 ###
