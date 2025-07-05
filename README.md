@@ -19,7 +19,7 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,typescript,react,nodejs,css,java,php,python,js,androidstudio,postman,vscode,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,typescript,react,nodejs,css,java,php,python,js,androidstudio,postman,vscode,figma,laravel" alt="Tech Stack" />
 </div>
 
 ---
