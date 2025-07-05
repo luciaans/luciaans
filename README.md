@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lucians!
+# 👋 Hi there, I'm Lucian!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
@@ -10,9 +10,10 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
 
 - 🔭 I'm currently working on **exciting projects**
 - 🌱 I'm always learning **new technologies**
-- 💬 Ask me about **web development, programming, or tech in general**
+- 🤖 I'm passionate about **AI, experimenting with Ollama, Machine Learning, and exploring the future of intelligent systems**
+- 💬 Ask me about **web development, programming, AI/ML, or tech in general**
 - 📫 How to reach me: **Discord** - luciaans
-- ⚡ Fun fact: **I love good music while coding!**
+- ⚡ Fun fact: **I love good music while coding and diving deep into AI research!**
 
 ---
 
@@ -69,6 +70,26 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/luciaans/luciaans/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/luciaans/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luciaans&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1" />
+  </a>
+  <a href="https://github.com/luciaans/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luciaans&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2" />
+  </a>
+</div>
+
+---
 
 ## 💡 Random Dev Quote
 
