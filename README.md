@@ -96,6 +96,8 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
   <img src="https://img.shields.io/github/followers/luciaans?label=Followers&style=social" alt="Followers" />
 </div>
 
+---
+
 ###
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/snake.svg" alt="Snake animation" />
@@ -103,4 +105,5 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
 
 ###
 
+---
 
