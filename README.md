@@ -69,18 +69,6 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/luciaans/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luciaans&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1" />
-  </a>
-  <a href="https://github.com/luciaans/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luciaans&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2" />
-  </a>
-</div>
-
----
 
 ## 💡 Random Dev Quote
 
