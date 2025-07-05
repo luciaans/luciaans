@@ -8,7 +8,6 @@
 
 I'm a passionate developer who loves creating amazing digital experiences. Currently exploring the endless possibilities of code and turning ideas into reality.
 
-- 🔭 I'm currently working on **exciting projects**
 - 🌱 I'm always learning **new technologies**
 - 🤖 I'm passionate about **AI, experimenting with Ollama, Machine Learning, and exploring the future of intelligent systems**
 - 💬 Ask me about **web development, programming, AI/ML, or tech in general**
