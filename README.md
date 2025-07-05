@@ -96,7 +96,7 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
   <img src="https://img.shields.io/github/followers/luciaans?label=Followers&style=social" alt="Followers" />
 </div>
 
----
+
 
 ###
 <div style="text-align: center;">
