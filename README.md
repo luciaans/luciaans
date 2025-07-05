@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lucian!
+# 👋 Hi there, I'm Kiki!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
@@ -70,27 +70,6 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/luciaans/luciaans/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/luciaans/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luciaans&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1" />
-  </a>
-  <a href="https://github.com/luciaans/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luciaans&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2" />
-  </a>
-</div>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -117,6 +96,11 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
   <img src="https://img.shields.io/github/followers/luciaans?label=Followers&style=social" alt="Followers" />
 </div>
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/luciaans">luciaans</a></i>
+###
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/iammonsterbunny/iammonsterbunny/output/snake.svg" alt="Snake animation" />
 </div>
+
+###
+
+
