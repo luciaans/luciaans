@@ -31,9 +31,6 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciaans&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luciaans&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 
 ---
 
