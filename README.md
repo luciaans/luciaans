@@ -50,14 +50,6 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luciaans&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
