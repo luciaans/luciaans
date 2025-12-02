@@ -32,7 +32,7 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
 
 ---
 
-## 💻 Discord Activity
+## 👾 Discord Activity
 
 <div align="center">
   <img src="https://lanyard.cnrad.dev/api/867236993683816458?theme=dark&bg=0D1117&borderRadius=15px&hideDiscrim=true&hideTimestamp=false&hideBadges=false&hideProfile=false" alt="Discord Activity" />
