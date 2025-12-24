@@ -1,22 +1,22 @@
-# 👋 Hi there, I'm Kiki!
+# Hi there, I'm Kiki!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate developer who loves creating amazing digital experiences. Currently exploring the endless possibilities of code and turning ideas into reality.
 
-- 🌱 I'm always learning **new technologies**
-- 🤖 I'm passionate about **AI, experimenting with Ollama, Machine Learning, and exploring the future of intelligent systems**
-- 💬 Ask me about **web development, programming, AI/ML, or tech in general**
-- 📫 How to reach me: **Discord** - luciaans
-- ⚡ Fun fact: **I love good music while coding and diving deep into AI research!**
+- I'm always learning **new technologies**
+- I'm passionate about **AI, experimenting with Ollama, Machine Learning, and exploring the future of intelligent systems**
+- Ask me about **web development, programming, AI/ML, or tech in general**
+- How to reach me: **Discord** - luciaans
+- Fun fact: **I love good music while coding and diving deep into AI research!**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,typescript,react,nodejs,css,java,php,python,js,androidstudio,postman,vscode,figma,laravel" alt="Tech Stack" />
@@ -24,7 +24,7 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
 
 ---
 
-## 🎵 Currently Listening To
+## Currently Listening To
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnixnvs4aipgfaei7sfel56vp4&unique=true&width=400&count=5" alt="Spotify Recently Played" />
@@ -32,7 +32,7 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
 
 ---
 
-## 👾 Discord Activity
+## Discord Activity
 
 <div align="center">
   <img src="https://lanyard.cnrad.dev/api/867236993683816458?theme=dark&bg=0D1117&borderRadius=15px&hideDiscrim=true&hideTimestamp=false&hideBadges=false&hideProfile=false" alt="Discord Activity" />
@@ -40,7 +40,7 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luciaans&theme=tokyo-night&bg_color=0D1117&color=70A5FD&line=38BDAE&point=70A5FD&area=true&hide_border=true" alt="Activity Graph" />
@@ -48,7 +48,7 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
 
 ---
 
-## 💡 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Dev Quote" />
@@ -56,7 +56,7 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   <a href="https://discord.com/users/867236993683816458">
