@@ -22,13 +22,6 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
   <img src="https://skillicons.dev/icons?i=html,typescript,react,nodejs,css,java,php,python,js,androidstudio,postman,vscode,figma,laravel" alt="Tech Stack" />
 </div>
 
----
-
-## Currently Listening To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnixnvs4aipgfaei7sfel56vp4&unique=true&width=400&count=5" alt="Spotify Recently Played" />
-</div>
 
 ---
 
