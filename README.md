@@ -31,13 +31,6 @@ I'm a passionate developer who loves creating amazing digital experiences. Curre
   <img src="https://lanyard.cnrad.dev/api/867236993683816458?theme=dark&bg=0D1117&borderRadius=15px&hideDiscrim=true&hideTimestamp=false&hideBadges=false&hideProfile=false" alt="Discord Activity" />
 </div>
 
----
-
-## Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luciaans&theme=tokyo-night&bg_color=0D1117&color=70A5FD&line=38BDAE&point=70A5FD&area=true&hide_border=true" alt="Activity Graph" />
-</div>
 
 ---
 
