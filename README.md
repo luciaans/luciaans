@@ -4,22 +4,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
 </div>
 
-## About Me
+### About Me
 
-I'm a passionate developer who loves creating amazing digital experiences. Currently exploring the endless possibilities of code and turning ideas into reality.
+Informatics Engineering graduate from Universitas Muhammadiyah Pontianak, with a focus on interactive application development and document automation.
 
-- I'm always learning **new technologies**
-- I'm passionate about **AI, experimenting with Ollama, Machine Learning, and exploring the future of intelligent systems**
-- Ask me about **web development, programming, AI/ML, or tech in general**
-- How to reach me: **Discord** - luciaans
-- Fun fact: **I love good music while coding and diving deep into AI research!**
+- Built a Roblox Studio project as part of my undergraduate thesis, using the MDLC development methodology
+- Works across document automation, data analysis, and scripting — Python/XML-based processing of Word files, HTML/JS, Lua, React, and 3D web
+- Exploring AI and machine learning in general
+- Open to opportunities in application and game development
+- Reach me on Discord: luciaans
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,typescript,react,nodejs,css,java,php,python,js,androidstudio,postman,vscode,figma,laravel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,js,python,nodejs,java,react,lua,threejs" alt="Tech Stack" />
 </div>
 
 
