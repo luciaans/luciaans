@@ -4,16 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
 </div>
 
-
----
-
-## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,python,nodejs,java,react,lua,threejs" alt="Tech Stack" />
-</div>
-
-
 ---
 
 ## Discord Activity
