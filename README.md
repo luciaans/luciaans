@@ -4,15 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
 </div>
 
-### About Me
-
-Informatics Engineering graduate from Universitas Muhammadiyah Pontianak, with a focus on interactive application development and document automation.
-
-- Built a Roblox Studio project as part of my undergraduate thesis, using the MDLC development methodology
-- Works across document automation, data analysis, and scripting — Python/XML-based processing of Word files, HTML/JS, Lua, React, and 3D web
-- Exploring AI and machine learning in general
-- Open to opportunities in application and game development
-- Reach me on Discord: luciaans
 
 ---
 
