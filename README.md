@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E42,100:0D1117&height=120&section=header" width="100%" alt="header" />
+<img src="https://raw.githubusercontent.com/luciaans/luciaans/main/assets/header.svg" width="100%" alt="header" />
 
 <img align="left" src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif" alt="Cat working on a laptop" width="250" />
 
@@ -12,4 +12,4 @@
 
 <br clear="all">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F59E42&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/luciaans/luciaans/main/assets/footer.svg" width="100%" alt="footer" />
