@@ -1,8 +1,8 @@
 <div align="center">
 <table>
 <tr>
-<td valign="top" align="center"><img src="./assets/kiki-cat-terminal.gif?v=4" width="370" alt="Animated cat coding inside a terminal" /></td>
-<td valign="top" align="center"><img src="./assets/kiki-info.svg?v=2" width="520" alt="Luciaans profile information" /></td>
+<td valign="top" align="center"><img src="./assets/luciaans-cat-terminal.gif?v=5" width="370" alt="Animated cat coding inside a terminal" /></td>
+<td valign="top" align="center"><img src="./assets/luciaans-info.svg?v=3" width="520" alt="Luciaans profile information" /></td>
 </tr>
 </table>
 </div>
