@@ -1,49 +1,10 @@
 <div align="center">
-  <img src="./assets/kiki-matrix.svg" width="100%" alt="Kiki coding in the Matrix" />
-</div>
-
-<table width="100%">
+<table>
 <tr>
-<td width="48%" valign="top" align="center">
-
-### `kiki@github:~$ ./coding`
-
-<img src="./assets/kiki-matrix.svg" width="100%" alt="Animated Matrix coding cat" />
-
-</td>
-<td width="52%" valign="top">
-
-```text
-kiki@github:~$ whoami
-Kiki — Informatics Engineer
-
-kiki@github:~$ focus
-Software Engineering • Web GIS • Game Development
-
-kiki@github:~$ stack
-JavaScript • Lua • Roblox Studio • Leaflet.js
-
-kiki@github:~$ highlights
-→ Masjid Nurrudin Islamic experience on Roblox
-→ PONIVA population visualization platform
-→ GIS and digital projects for Pontianak
-```
-
-<div align="center">
-  <a href="https://discord.com/users/867236993683816458">
-    <img src="https://lanyard.cnrad.dev/api/867236993683816458?theme=dark&bg=0D1117&borderRadius=12px&hideDiscrim=true&hideTimestamp=false&hideBadges=false&hideProfile=false" width="95%" alt="Kiki's Discord activity" />
-  </a>
-</div>
-
-</td>
+<td valign="top" align="center"><img src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif" width="370" alt="Cat working on a laptop" /></td>
+<td valign="top" align="center"><img src="./assets/kiki-info.svg" width="520" alt="Kiki profile information" /></td>
 </tr>
 </table>
-
-<div align="center">
-
-```text
-> connection established
-> welcome to Kiki's corner of the Matrix
-```
-
 </div>
+
+<div align="center"><a href="https://discord.com/users/867236993683816458"><img src="https://lanyard.cnrad.dev/api/867236993683816458?theme=dark&bg=0D1117&borderRadius=12px&hideDiscrim=true&hideTimestamp=false&hideBadges=false&hideProfile=false" width="480" alt="Kiki's Discord activity" /></a></div>
