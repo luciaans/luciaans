@@ -1,7 +1,7 @@
 <div align="center">
 <table>
 <tr>
-<td valign="top" align="center"><img src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif" width="370" alt="Cat working on a laptop" /></td>
+<td valign="top" align="center"><img src="./assets/kiki-matrix-cat.svg" width="370" alt="Animated Matrix cat working on a laptop" /></td>
 <td valign="top" align="center"><img src="./assets/kiki-info.svg" width="520" alt="Kiki profile information" /></td>
 </tr>
 </table>
