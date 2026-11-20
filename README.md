@@ -2,7 +2,8 @@
 <table>
 <tr>
 <td valign="top" align="center">
-  <img src="./assets/kiki-cat-terminal.gif?v=2" width="370" alt="Animated cat coding inside a terminal" />
+  <img src="./assets/cat-source.gif?v=3" width="370" alt="Animated cat coding inside a terminal" />
+  <br><sub><code>kiki@github:~$ ./cat-matrix.sh</code></sub>
 </td>
 <td valign="top" align="center"><img src="./assets/kiki-info.svg" width="520" alt="Kiki profile information" /></td>
 </tr>
