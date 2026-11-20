@@ -8,9 +8,9 @@
 </div>
 
 <div align="center">
-  <table border="1" cellpadding="8" cellspacing="0" width="620">
-    <tr><td align="center"><sub>🔴 🟡 🟢 &nbsp; kiki@discord: ~$ ./activity.sh</sub></td></tr>
-    <tr><td align="center"><a href="https://discord.com/users/867236993683816458"><img src="https://lanyard.cnrad.dev/api/867236993683816458?theme=dark&bg=0D1117&borderRadius=12px&hideDiscrim=true&hideTimestamp=false&hideBadges=false&hideProfile=false" width="560" alt="Kiki's Discord activity" /></a></td></tr>
+  <table border="1" bordercolor="#30363d" cellpadding="6" cellspacing="0" width="370">
+    <tr><td align="center"><sub>🔴 🟡 🟢 &nbsp; kiki@discord: ~$ activity.sh</sub></td></tr>
+    <tr><td align="center"><a href="https://discord.com/users/867236993683816458"><img src="https://lanyard.cnrad.dev/api/867236993683816458?theme=dark&bg=0D1117&borderRadius=12px&hideDiscrim=true&hideTimestamp=false&hideBadges=false&hideProfile=false" width="340" alt="Kiki's Discord activity" /></a></td></tr>
     <tr><td><sub><code>kiki@discord:~$ status --live</code></sub></td></tr>
   </table>
 </div>
