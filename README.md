@@ -1,13 +1,7 @@
 <div align="center">
 <table>
 <tr>
-<td valign="top" align="center">
-  <table border="1" cellpadding="8" cellspacing="0" width="370">
-    <tr><td align="center"><sub>🔴 🟡 🟢 &nbsp; kiki@github: ~$ ./cat-matrix.sh</sub></td></tr>
-    <tr><td align="center"><img src="./assets/cat-source.gif?v=3" width="350" alt="Animated cat coding inside a terminal" /></td></tr>
-    <tr><td><sub><code>kiki@github:~$ work in progress...</code></sub></td></tr>
-  </table>
-</td>
+<td valign="top" align="center"><img src="./assets/kiki-cat-terminal.gif?v=3" width="370" alt="Animated cat coding inside a terminal" /></td>
 <td valign="top" align="center"><img src="./assets/kiki-info.svg" width="520" alt="Kiki profile information" /></td>
 </tr>
 </table>
