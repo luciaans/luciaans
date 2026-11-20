@@ -1,8 +1,8 @@
 <div align="center">
 <table>
 <tr>
-<td valign="top" align="center"><sub>🔴 🟡 🟢 &nbsp; luciaans@github: ~$ ./coding.sh</sub><br><img src="./assets/luciaans-coding.gif?v=1" width="370" alt="Animated cat coding inside a terminal" /><br><sub><code>luciaans@github:~$ compiling snacks...</code></sub></td>
-<td valign="top" align="center"><sub>🔴 🟡 🟢 &nbsp; luciaans@github: ~$ ./focus.sh</sub><br><img src="./assets/luciaans-focus.gif?v=1" width="370" alt="Animated focus cat terminal" /><br><sub><code>luciaans@github:~$ judging your code...</code></sub></td>
+<td valign="top" align="center"><img src="./assets/luciaans-coding-terminal.gif" width="370" alt="Animated cat coding inside a terminal" /></td>
+<td valign="top" align="center"><img src="./assets/luciaans-focus-status.gif" width="370" height="370" alt="Animated focus cat terminal" /></td>
 </tr>
 </table>
 </div>
