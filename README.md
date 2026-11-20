@@ -1,8 +1,8 @@
 <div align="center">
 <table>
 <tr>
-<td valign="top" align="center"><img src="./assets/luciaans-cat-terminal.gif?v=5" width="370" alt="Animated cat coding inside a terminal" /></td>
-<td valign="top" align="center"><img src="./assets/luciaans-focus-terminal.gif" width="370" height="370" alt="Animated focus cat terminal" /></td>
+<td valign="top" align="center"><img src="./assets/luciaans-cat-terminal.gif?v=6" width="370" alt="Animated cat coding inside a terminal" /></td>
+<td valign="top" align="center"><img src="./assets/luciaans-focus-terminal.gif?v=2" width="370" height="370" alt="Animated focus cat terminal" /></td>
 </tr>
 </table>
 </div>
