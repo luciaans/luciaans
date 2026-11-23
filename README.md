@@ -11,7 +11,9 @@
   <img src="./assets/discord-terminal-footer.svg" width="370" alt="Discord terminal footer" />
 </td>
 <td valign="top" align="center" width="370">
-  <img src="./assets/kiki-ascii-terminal.svg" width="370" alt="Kiki ASCII Art Terminal" />
+  <img src="./assets/cat-terminal-header.svg" width="370" alt="Cat terminal header" /><br>
+  <img src="./assets/kiki-ascii-card.svg" width="370" alt="Kiki Cat ASCII Art" /><br>
+  <img src="./assets/cat-terminal-footer.svg" width="370" alt="Cat terminal footer" />
 </td>
 </tr>
 </table>
